@@ -1,6 +1,7 @@
 # capstone-DS-dog-breed
 Capstone Project for Data Science Nano Degree
 Blog Post:
+https://medium.com/@dmoreno757/whose-dog-who-f0b9b51f6549
 
 **Project Overview**
 Project usess CNN for Dog breed Classification. Given a dog image the model will estimate to identify the dogs breed. If an image finds a human, it will determine its a human.
